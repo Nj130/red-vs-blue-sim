@@ -1,4 +1,4 @@
-# Red-vs-Blue Simulator
+# Red-🆚-Blue Simulator
 
 A **sandboxed Red Team vs Blue Team learning platform** that uses Docker to spin up intentionally vulnerable environments for attack simulation and defensive countermeasures. This lab allows ethical learners to practice real-world security scenarios in a safe and isolated environment.
 
@@ -29,3 +29,5 @@ The environment consists of these primary components brought up via Docker Compo
 git clone https://github.com/Nj130/red-vs-blue-sim.git
 cd red-vs-blue-sim
 docker compose up -d
+
+# Credit:- Neeraj Patil
