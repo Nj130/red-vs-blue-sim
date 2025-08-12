@@ -1,0 +1,12 @@
+ For developing custom telemetry ingestion scripts
+elasticsearch>=8.0.0
+logstash-formatter>=0.5.0
+
+# Useful for integrating Caldera (if you add Python-based orchestration/plugins)
+mitre-caldera-client>=1.0.0
+
+# Optional: HTTP client for scripting, e.g., to ping Juice Shop or WAF
+requests>=2.28.0
+
+# Optional: YAML support for config parsing
+PyYAML>=6.0
